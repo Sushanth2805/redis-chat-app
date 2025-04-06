@@ -1,8 +1,6 @@
-<h1 align="center">Redis Chat App ⚡</h1>
+<h1 align="center">Redis Chat App </h1>
 
-![Demo App](/public/screenshot-for-readme.png)
 
-About This Course:
 
 - ⚛️ Tech Stack: Next.js 14, TypeScript, Tailwind CSS, `UPSTASH` Redis
 - 🔐 Authentication
@@ -16,8 +14,6 @@ About This Course:
 - 🛠️ Integration with Upstash Redis for Scalable Chat
 - 💙 Awesome Landing Page
 - 🌐 Deployment
-- 🚀 And Many More Cool Features
-- ✅ This is a lot of work. Support my work by subscribing to the [Channel](https://www.youtube.com/@asaprogrammer_)
 
 ### Setup .env file
 
